@@ -20,7 +20,7 @@ In the following lines are presented some animated result obtained with the reso
 ![Ux](Ux_global.gif)
 
 ## Displacements in y direction
-![Uy](Ux_global.gif)
+![Uy](Uy_global.gif)
 
 ## Displacements in z direction
 ![Uz](Uz_global.gif)
