@@ -3,6 +3,8 @@
 ![logo](https://github.com/gcavpoliba/OpenSTools/blob/main/logo.png)
 
 # **POLITECNICO DI BARI** - **DRSATE XXXVIII PhD cycle**
+# *Analisi di risposta sismica locale su area vasta usando risorse HPC*
+### *Seismic site response analysis over large areas with HPC resources* <br>
 ## **Tutors:** F. Cotecchia, G. Elia, A. di Lernia
 ## **Author:** GIANLUCA CAVALLO [![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0009-0000-6177-0875)
 ## **start year: 2023**
