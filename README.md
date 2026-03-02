@@ -11,7 +11,7 @@
 ## **email:** gi.cav.2586@gmail.com
 ## **email:** g.cavallo@phd.poliba.it
 
-In the following lines are presented some animated result obtained with the resolution of a 3D FEM moded with 90 CPUs in an HPC system:
+In the following lines are presented some animated result obtained with the resolution of a 3D FEM model with 90 CPUs in an HPC system:
 # Global contour results 
 ## Deformed mesh
 ![Deformed Mesh](Deformed_mesh_global.gif)
