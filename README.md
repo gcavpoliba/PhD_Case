@@ -16,19 +16,19 @@ In the following lines are presented some animated result obtained with the reso
 ## Deformed mesh
 ![Deformed Mesh](Deformed_mesh_global.gif)
 
-## Displacements in x directions
+## Displacements in x direction
 ![Ux](Ux_global.gif)
 
-## Displacements in y directions
+## Displacements in y direction
 ![Uy](Ux_global.gif)
 
-## Displacements in z directions
+## Displacements in z direction
 ![Uz](Uz_global.gif)
 
-## Accelerations in X directions
+## Accelerations in X direction
 ![Ax](Ax_global.gif)
 
-## Accelerations in y directions
+## Accelerations in y direction
 ![Ay](Ay_global.gif)
 
 # Points A B C
@@ -39,19 +39,19 @@ In the following lines are presented some animated result obtained with the reso
 
 # Section for A point
 
-## Displacements in x directions
+## Displacements in x direction
 ![Ux](Ux_8x.gif)
 
-## Displacements in y directions
+## Displacements in y direction
 ![Uy](Uy_8x.gif)
 
-## Displacements in z directions
+## Displacements in z direction
 ![Uz](Uz_8x.gif)
 
-## Accelerations in x directions
+## Accelerations in x direction
 ![Ax](Ax_8x.gif)
 
-## Accelerations in y directions
+## Accelerations in y direction
 ![Ay](Ay_8x.gif)
 
 
